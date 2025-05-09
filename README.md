@@ -22,10 +22,15 @@
 
 <details>
 <summary>📌 Quick Facts</summary>
+  
 🔭 Right now, I'm working on building cloud monitoring dashboards and automating secure data pipelines.
+  
 🌱 I'm diving deeper into advanced Kubernetes operations and exploring multi-cloud deployment strategies.
+
 💬 I love talking about cloud security, infrastructure as code, and anything related to backend or DevOps workflows.
+
 💡 Fun fact: I'd rather create a real-time Grafana dashboard than build a PowerPoint deck any day!
+
 </details>
 
 ---
