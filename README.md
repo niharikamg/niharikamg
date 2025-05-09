@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Niharika MG 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=800&lines=Cloud+Engineer+%7C+AI+Security+Researcher+%7C+Full-Stack+Developer+%7C+DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=800&lines=Cloud+Engineer+Full-Stack+Developer+%7C+DevOps+Enthusiast" />
 </p>
 
 <p align="center">
