@@ -18,15 +18,14 @@
 
 > 👋 I’m a passionate engineer with a focus on **cloud-native development**, **AI security**, and **DevOps automation**.  
 > 🎓 Currently pursuing a Master’s in Computer Science @ University of Cincinnati.  
-> 🛠️ I design systems that are performant, secure, scalable — and always evolving.  
+> 🛠️ I design systems that are performant, secure, scalable and always evolving.  
 
 <details>
 <summary>📌 Quick Facts</summary>
-
-- 🔭 I’m currently building cloud monitoring dashboards and secure data pipelines.
-- 🌱 I’m learning advanced Kubernetes ops and multi-cloud deployments.
-- 💬 Ask me about cloud security, infrastructure automation, and web APIs.
-- 💡 Fun fact: I prefer Grafana dashboards over PowerPoint slides!
+🔭 Right now, I'm working on building cloud monitoring dashboards and automating secure data pipelines.
+🌱 I'm diving deeper into advanced Kubernetes operations and exploring multi-cloud deployment strategies.
+💬 I love talking about cloud security, infrastructure as code, and anything related to backend or DevOps workflows.
+💡 Fun fact: I'd rather create a real-time Grafana dashboard than build a PowerPoint deck any day!
 </details>
 
 ---
