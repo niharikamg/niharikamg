@@ -14,29 +14,29 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-> 👋 I’m a passionate engineer with a focus on **cloud-native development**, **AI security**, and **DevOps automation**.  
-> 🎓 Currently pursuing a Master’s in Computer Science @ University of Cincinnati.  
-> 🛠️ I design systems that are performant, secure, scalable and always evolving.  
+>  I’m a passionate engineer with a focus on **cloud-native development**, **AI security**, and **DevOps automation**.  
+>  Currently pursuing a Master’s in Computer Science @ University of Cincinnati.  
+>  I design systems that are performant, secure, scalable and always evolving.  
 
 <details>
 <summary>📌 Quick Facts</summary>
 
   
-🔭 Right now, I'm working on building cloud monitoring dashboards and automating secure data pipelines.
+Right now, I'm working on building cloud monitoring dashboards and automating secure data pipelines.
   
-🌱 I'm diving deeper into advanced Kubernetes operations and exploring multi-cloud deployment strategies.
+I'm diving deeper into advanced Kubernetes operations and exploring multi-cloud deployment strategies.
 
-💬 I love talking about cloud security, infrastructure as code, and anything related to backend or DevOps workflows.
+I love talking about cloud security, infrastructure as code, and anything related to backend or DevOps workflows.
 
-💡 Fun fact: I'd rather create a real-time Grafana dashboard than build a PowerPoint deck any day!
+Fun fact: I'd rather create a real-time Grafana dashboard than build a PowerPoint deck any day!
 
 </details>
 
 ---
 
-## 🧰 Tech Toolbox
+## Tech Toolbox
 
 ```bash
 💻 Languages:       Python, Java, JavaScript, TypeScript, SQL, C++
@@ -51,10 +51,10 @@
 
 ---
 
-## 🚀 Projects Spotlight
+## Projects Spotlight
 
 <details open>
-<summary><strong>📦 Azure Data Factory – ETL Pipeline</strong></summary>
+<summary><strong> Azure Data Factory – ETL Pipeline</strong></summary>
 
 Automated CSV ingestion, transformation, and storage with real-time reporting using Azure Data Factory, SQL DB, Functions, and Static Web Apps.
 
@@ -64,7 +64,7 @@ Automated CSV ingestion, transformation, and storage with real-time reporting us
 </details>
 
 <details>
-<summary><strong>🌐 Visual-Interfrace – County Data Dashboard</strong></summary>
+<summary><strong> Visual-Interfrace – County Data Dashboard</strong></summary>
 
 Interactive data visualization tool for U.S. health and socioeconomic data using D3.js and TopoJSON.
 
@@ -74,7 +74,7 @@ Interactive data visualization tool for U.S. health and socioeconomic data using
 </details>
 
 <details>
-<summary><strong>🧠 AI-Powered Code Auto Refactoring System</strong></summary>
+<summary><strong> AI-Powered Code Auto Refactoring System</strong></summary>
 
 Automatically restructures Python code for better performance and readability using static analysis and ML.
 
@@ -84,7 +84,7 @@ Automatically restructures Python code for better performance and readability us
 </details>
 
 <details>
-<summary><strong>🌍 Decentralized AI Model Marketplace</strong></summary>
+<summary><strong> Decentralized AI Model Marketplace</strong></summary>
 
 Blockchain-based platform to securely upload, rent, and access ML models with Ethereum and Web3.js.
 
@@ -94,7 +94,7 @@ Blockchain-based platform to securely upload, rent, and access ML models with Et
 </details>
 
 <details>
-<summary><strong>💬 GCP Chatbot for Student Services</strong></summary>
+<summary><strong> GCP Chatbot for Student Services</strong></summary>
 
 An intent-based academic Q\&A assistant using Google Dialogflow and GCP App Engine.
 
@@ -104,7 +104,7 @@ An intent-based academic Q\&A assistant using Google Dialogflow and GCP App Engi
 </details>
 
 <details>
-<summary><strong>📈 COVID-19 Data Analytics with Databricks</strong></summary>
+<summary><strong> COVID-19 Data Analytics with Databricks</strong></summary>
 
 Analyzed COVID-19 trends and vaccination outcomes using PySpark on Databricks with interactive insights.
 
@@ -114,7 +114,7 @@ Analyzed COVID-19 trends and vaccination outcomes using PySpark on Databricks wi
 </details>
 
 <details>
-<summary><strong>📊 Data Science & Analytics on Azure</strong></summary>
+<summary><strong> Data Science & Analytics on Azure</strong></summary>
 
 Exploratory data analytics and visualization pipeline on Azure using Python and integrated services.
 
@@ -124,7 +124,7 @@ Exploratory data analytics and visualization pipeline on Azure using Python and 
 </details>
 
 <details>
-<summary><strong>☁️ AWS Flask Web App</strong></summary>
+<summary><strong> AWS Flask Web App</strong></summary>
 
 Web application deployed on EC2 using Flask, featuring user auth and word-count analysis on file upload.
 
