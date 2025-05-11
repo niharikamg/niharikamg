@@ -23,18 +23,21 @@
 <details>
 <summary>📌 Quick Facts</summary>
 
-  
-Right now, I'm working on building cloud monitoring dashboards and automating secure data pipelines.
-  
-I'm diving deeper into advanced Kubernetes operations and exploring multi-cloud deployment strategies.
-
-I love talking about cloud security, infrastructure as code, and anything related to backend or DevOps workflows.
-
+Right now, I'm working on building cloud monitoring dashboards and automating secure data pipelines.  
+I'm diving deeper into advanced Kubernetes operations and exploring multi-cloud deployment strategies.  
+I love talking about cloud security, infrastructure as code, and anything related to backend or DevOps workflows.  
 Fun fact: I'd rather create a real-time Grafana dashboard than build a PowerPoint deck any day!
 
 </details>
 
 ---
+
+## 🧰 Tech Toolbox
+
+<details>
+  <summary><strong>Click to view stack</strong></summary>
+
+  ```bash
   💻 Languages:       Python, Java, JavaScript, TypeScript, SQL, C++
   🧰 DevOps:          Docker, GitHub Actions, Jenkins, Terraform, Bash
   ☁️ Cloud:           AWS, Azure, GCP
@@ -43,6 +46,10 @@ Fun fact: I'd rather create a real-time Grafana dashboard than build a PowerPoin
   🛢️ Databases:       PostgreSQL, MongoDB, MySQL, PySpark, Databricks
   🔐 Security:        OAuth 2.0, AES Encryption, IAM, SSO, API Gateways
   📊 Observability:   Prometheus, Grafana, CloudWatch, Loki
+````
+
+</details>
+
 ---
 
 ## Projects Spotlight
@@ -160,4 +167,6 @@ If you're working on projects involving:
 | 🌐 Portfolio | [niharikamg.github.io/Visual-Interfrace](https://niharikamg.github.io/Visual-Interfrace) |
 
 ---
+
+
 
