@@ -36,18 +36,18 @@ Fun fact: I'd rather create a real-time Grafana dashboard than build a PowerPoin
 
 ---
 
-## Tech Toolbox
+<details>
+  <summary><strong>🚀 Tech Toolbox</strong></summary>
 
-```bash
-💻 Languages:       Python, Java, JavaScript, TypeScript, SQL, C++
-🧰 DevOps:          Docker, GitHub Actions, Jenkins, Terraform, Bash
-☁️ Cloud:           AWS, Azure, GCP
-🧠 ML & AI:         PyTorch, TensorFlow, Scikit-learn, NLP, OpenCV
-🧱 Frameworks:      Flask, Spring Boot, Node.js, React, FastAPI
-🛢️ Databases:       PostgreSQL, MongoDB, MySQL, PySpark, Databricks
-🔐 Security:        OAuth 2.0, AES Encryption, IAM, SSO, API Gateways
-📊 Observability:   Prometheus, Grafana, CloudWatch, Loki
-````
+  ```bash
+  💻 Languages:       Python, Java, JavaScript, TypeScript, SQL, C++
+  🧰 DevOps:          Docker, GitHub Actions, Jenkins, Terraform, Bash
+  ☁️ Cloud:           AWS, Azure, GCP
+  🧠 ML & AI:         PyTorch, TensorFlow, Scikit-learn, NLP, OpenCV
+  🧱 Frameworks:      Flask, Spring Boot, Node.js, React, FastAPI
+  🛢️ Databases:       PostgreSQL, MongoDB, MySQL, PySpark, Databricks
+  🔐 Security:        OAuth 2.0, AES Encryption, IAM, SSO, API Gateways
+  📊 Observability:   Prometheus, Grafana, CloudWatch, Loki
 
 ---
 
