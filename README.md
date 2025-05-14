@@ -140,8 +140,7 @@ Web application deployed on EC2 using Flask, featuring user auth and word-count 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharikamg&theme=dark&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=niharikamg&show_icons=true&theme=dark&include_all_commits=true" height="160" />
-</p>
+
 
 ---
 
