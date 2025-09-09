@@ -163,7 +163,6 @@ If you're working on projects involving:
 | ------------ | ---------------------------------------------------------------------------------------- |
 | 💼 LinkedIn  | [linkedin.com/in/niharika-mg](https://linkedin.com/in/niharika-mg)                       |
 | 📧 Email     | [mgniharikaa@gmail.com](mailto:mgniharikaa@gmail.com)                                    |
-| 🌐 Portfolio | [niharikamg.github.io/Visual-Interfrace](https://niharikamg.github.io/Visual-Interfrace) |
 
 ---
 
