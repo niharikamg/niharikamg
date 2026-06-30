@@ -1,207 +1,633 @@
 <div align="center">
 
-# Niharika MG
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Niharika%20MG&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Backend+Engineer+%7C+3%2B+Years+Experience;FastAPI+%7C+Django+REST+%7C+PostgreSQL+%7C+Redis;Cloud-Native+%3A+AWS+%7C+Docker+%7C+Kubernetes;LLM+Engineering+%26+AI+Agent+Research;M.S.+CS+%40+UC+%E2%80%94+GPA+4.0+%2F+4.0+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+🚀;LLM+Engineering+%7C+AI+Agent+Research+🤖;FastAPI+%7C+Django+REST+%7C+PostgreSQL;Cloud+Native+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Backend+Systems+⚡;M.S.+Computer+Science+@+University+of+Cincinnati+🎓)](https://git.io/typing-svg)
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-mg)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgniharikaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niharikamg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://niharikamg.github.io)
+<a href="https://linkedin.com/in/niharika-mg">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![Profile views](https://komarev.com/ghpvc/?username=niharikamg&style=flat-square&color=58a6ff&label=Profile+Views)
+<a href="mailto:mgniharikaa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/niharikamg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://niharikamg.github.io">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=niharikamg&style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/followers/niharikamg?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/niharikamg?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-<img align="right" src="https://github.com/niharikamg.png" width="155" style="border-radius:50%"/>
+<img align="right" width="220" src="https://github.com/niharikamg.png"/>
 
-Software Engineer & Researcher with **3+ years** building scalable backend systems, REST APIs, and LLM-powered automation across fintech and developer platforms.
+🎓 **M.S. Computer Science**  
+**University of Cincinnati**  
+**GPA: 4.0 / 4.0**
 
-🎓 **M.S. Computer Science** — University of Cincinnati *(GPA: 4.0 / 4.0)*  
-📍 **Texas, USA**  
-🔭 Currently researching **autonomous Android debugging** and **AI agent failure detection**
+Backend Engineer with **3+ years of experience** designing scalable backend systems, REST APIs, cloud-native applications, and AI-powered developer tools.
 
-**What I build:**
-- ⚡ High-performance APIs — FastAPI, Django REST, async Celery + Redis pipelines
-- 🗄️ Large-scale PostgreSQL — indexing, query plan tuning, ORM optimization
-- ☁️ Cloud-native — AWS, Docker, Kubernetes, CI/CD
-- 🤖 LLM systems — adaptive routing, agent evaluation, intervention logic
+Currently focused on building **autonomous AI agents**, **Android debugging systems**, and **LLM evaluation frameworks**.
+
+### 💡 Interests
+
+- 🚀 Backend Engineering
+- 🤖 AI Agents & LLM Systems
+- ☁️ Cloud Computing
+- 📊 Distributed Systems
+- 🔬 AI Research
+- ⚡ Performance Optimization
 
 <br clear="right"/>
 
 ---
 
-## 🔬 Research
+# 🌟 Current Focus
+
+```text
+🔬 AdaptiveReBL
+├── Android Bug Reproduction
+├── Multi-LLM Routing
+├── Gemini Vertex AI
+└── ADB Automation
+
+🤖 OpenHands
+├── Agent Evaluation
+├── Failure Detection
+├── Intervention Nodes
+└── Autonomous Debugging
+
+☁️ Backend Systems
+├── FastAPI
+├── PostgreSQL
+├── Redis
+├── Docker
+└── Kubernetes
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,html,css,bash&perline=9"/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&perline=8"/>
+
+## Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=6"/>
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions&perline=6"/>
+
+## AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6"/>
+
+</div>
+
+---
+
+# 🔬 Research
 
 <table>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 AdaptiveReBL
-**Autonomous Android Bug Reproduction**
+<td width="50%">
 
-LLM-driven framework using ADB automation and adaptive LLM routing (Ollama/Qwen ↔ Gemini Vertex AI) to autonomously reproduce Android crashes.
+## 🤖 AdaptiveReBL
 
-`Python` · `LLM Agents` · `ADB` · `Vertex AI`
+### Autonomous Android Bug Reproduction
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/AdaptiveReBL)
+AdaptiveReBL is an intelligent framework that autonomously reproduces Android application crashes using ADB automation and adaptive LLM routing.
+
+### Highlights
+
+- 📱 Android UI automation
+- 🤖 Multi-LLM routing
+- ☁️ Vertex AI
+- ⚡ Autonomous debugging
+
+**Tech**
+
+`Python`
+`ADB`
+`Gemini`
+`Qwen`
+`Vertex AI`
+`LLM Agents`
+
+<br>
+
+<a href="https://github.com/niharikamg/AdaptiveReBL">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🧩 Adaptive Intervention Node
-**OpenHands Agent Evaluation**
+<td width="50%">
 
-Detects high-risk agent execution trajectories and injects corrections *before* irreversible state transitions — using oracle-recovery forking and prefix-only intervention.
+## 🧠 Adaptive Intervention Node
 
-`Python` · `LLM Agents` · `OpenHands` · `DAComp`
+### OpenHands Agent Evaluation
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/OpenHands)
+Research framework that detects high-risk execution trajectories and injects recovery interventions before irreversible failures occur.
+
+### Highlights
+
+- 🤖 AI Agent Evaluation
+- 📈 Failure Detection
+- 🔄 Oracle Recovery
+- ⚡ Prefix Intervention
+
+**Tech**
+
+`Python`
+
+`LLM Agents`
+
+`OpenHands`
+
+`DAComp`
+
+<br>
+
+<a href="https://github.com/niharikamg/OpenHands">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%" valign="top">
 
-### ☁️ CloudOps Insight
-Natural-language DevOps platform — intent-driven pipelines for cloud infra, deployment, and monitoring with real-time dashboards.
+<td width="50%">
 
-`FastAPI` `React` `Docker` `PostgreSQL` `Redis` `AWS` `Prometheus` `Grafana`
+## ☁️ CloudOps Insight
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/CloudOps-Insight-Cloud-Monitoring-Deployment-Dashboard)
+Natural-language DevOps platform for deployment, monitoring, cloud infrastructure management, and observability.
+
+### Features
+
+- 🚀 Deployment Automation
+- 📈 Monitoring Dashboard
+- 📊 Metrics Visualization
+- ☁️ Cloud Infrastructure
+
+**Stack**
+
+`FastAPI`
+
+`React`
+
+`Redis`
+
+`PostgreSQL`
+
+`Docker`
+
+`AWS`
+
+`Prometheus`
+
+`Grafana`
+
+<br>
+
+<a href="https://github.com/niharikamg/CloudOps-Insight-Cloud-Monitoring-Deployment-Dashboard">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 📊 NL → SQL Visualization
-Converts plain-English questions into SQL queries and auto-generates charts — no SQL knowledge needed.
+<td width="50%">
 
-`Python` `Flask` `SQLAlchemy` `PostgreSQL` `spaCy` `Pandas` `Matplotlib`
+## 📊 NL → SQL Visualization
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/Interactive-Data-Visualization-with-DBMS)
+Translate natural language into SQL queries and automatically generate interactive visualizations.
+
+### Features
+
+- 🗣️ Natural Language Queries
+- 📊 Chart Generation
+- 🗄️ SQL Translation
+- 📈 Analytics Dashboard
+
+**Stack**
+
+`Python`
+
+`Flask`
+
+`PostgreSQL`
+
+`SQLAlchemy`
+
+`Pandas`
+
+`Matplotlib`
+
+<br>
+
+<a href="https://github.com/niharikamg/Interactive-Data-Visualization-with-DBMS">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🏆 purpcode — Amazon Nova AI Challenge 2025
-**Prize-winning** reasoning system for safer LLM code generation with self-correcting validation loops.
+<td width="50%">
 
-`Python` · `LLM` · `Code Safety` · `Reasoning`
+## 🏆 purpcode — Amazon Nova AI Challenge 2025
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/purpcode)
+Prize-winning reasoning system designed to improve LLM code generation using self-correcting validation loops and iterative refinement.
+
+### Highlights
+
+- 🧠 Reasoning Pipeline
+- 🔒 Safer Code Generation
+- 🔁 Self-correction
+- ⚡ Multi-step Validation
+
+**Stack**
+
+`Python`
+
+`LLM`
+
+`Reasoning`
+
+`Prompt Engineering`
+
+<br>
+
+<a href="https://github.com/niharikamg/purpcode">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🔗 Decentralized AI Model Marketplace
-Blockchain platform to upload, rent, and access ML models via Ethereum smart contracts and IPFS.
+<td width="50%">
 
-`React` `Flask` `Solidity` `Web3.js` `IPFS`
+## 🔗 Decentralized AI Model Marketplace
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/Decentralized-AI-Model-Marketplace)
+Blockchain platform for securely uploading, renting, and sharing AI models using Ethereum smart contracts and IPFS.
+
+### Features
+
+- 🔐 Smart Contracts
+- 🌐 IPFS Storage
+- 💳 Secure Transactions
+- 🤝 AI Model Marketplace
+
+**Stack**
+
+`React`
+
+`Flask`
+
+`Ethereum`
+
+`Solidity`
+
+`Web3.js`
+
+`IPFS`
+
+<br>
+
+<a href="https://github.com/niharikamg/Decentralized-AI-Model-Marketplace">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🔵 Azure Data Factory — ETL Pipeline
-Automated CSV ingestion, transformation, and real-time reporting via ADF, SQL DB, and Azure Functions.
+<td width="50%">
 
-`Azure Data Factory` `Blob Storage` `Azure SQL` `Python`
+## ☁️ Azure Data Factory ETL Pipeline
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/Azure-Data-Factory)
+Cloud-native ETL pipeline that automates ingestion, transformation, and reporting using Azure services.
+
+### Features
+
+- ⚡ Automated ETL
+- ☁️ Azure Data Factory
+- 📈 Reporting Pipeline
+- 📊 Data Transformation
+
+**Stack**
+
+`Azure Data Factory`
+
+`Azure SQL`
+
+`Blob Storage`
+
+`Python`
+
+<br>
+
+<a href="https://github.com/niharikamg/Azure-Data-Factory">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🗺️ County Health Dashboard
-Interactive U.S. health & socioeconomic data explorer using D3.js choropleth maps and TopoJSON.
+<td width="50%">
 
-`JavaScript` `D3.js` `TopoJSON`
+## 🗺️ County Health Dashboard
 
-[![Live](https://img.shields.io/badge/Live%20Demo-FF69B4?style=flat-square&logo=vercel&logoColor=white)](https://niharikamg.github.io/Visual-Interfrace)
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niharikamg/Visual-Interfrace)
+Interactive data visualization platform exploring U.S. health and socioeconomic trends using D3.js.
+
+### Features
+
+- 🗺️ Choropleth Maps
+- 📈 Interactive Charts
+- 📊 Health Analytics
+- 🌎 Geographic Insights
+
+**Stack**
+
+`JavaScript`
+
+`D3.js`
+
+`TopoJSON`
+
+<br>
+
+<a href="https://niharikamg.github.io/Visual-Interfrace">
+
+<img src="https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="https://github.com/niharikamg/Visual-Interfrace">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+# 📈 GitHub Analytics
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=niharikamg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikamg&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=niharikamg&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=niharikamg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikamg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=niharikamg&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niharikamg&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&hide_border=true&area=true&area_color=1f6feb" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=niharikamg&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niharikamg&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🎓 Education
+# 🏆 GitHub Profile Summary
 
 <div align="center">
 
-| | Degree | Institution | Period | GPA |
-|:---:|:---|:---|:---:|:---:|
-| 🎓 | M.S. Computer Science | University of Cincinnati, OH | Aug 2024 – Dec 2026 | **4.0 / 4.0** |
-| 🎓 | B.Tech Computer Science | Kalinga University, India | Jul 2017 – Jun 2021 | **3.93 / 4.0** |
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niharikamg&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niharikamg&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niharikamg&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niharikamg&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niharikamg&theme=tokyonight&utcOffset=-5"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=niharikamg&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/niharikamg/niharikamg/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=niharikamg&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🌟 Random Dev Meme
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 Highlights
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
+|:--------------|:-----------|
+| 🎓 **M.S. Computer Science** | University of Cincinnati |
+| ⭐ **4.0 / 4.0 GPA** | Graduate Studies |
+| 💼 **3+ Years** | Backend Engineering Experience |
+| 🤖 **AI Research** | LLM Agents • Autonomous Debugging |
+| 🏆 **Amazon Nova AI Challenge 2025** | Prize-winning **purpcode** project |
+| ☁️ **Cloud Native** | AWS • Docker • Kubernetes |
+| ⚡ **Backend Systems** | FastAPI • Django REST • PostgreSQL |
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Duration | GPA |
+|:-------|:------------|:--------:|:---:|
+| 🎓 **M.S. Computer Science** | University of Cincinnati | Aug 2024 – Dec 2026 | **4.0 / 4.0** |
+| 🎓 **B.Tech Computer Science** | Kalinga University | Jul 2017 – Jun 2021 | **3.93 / 4.0** |
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+| 🤖 AI | ☁️ Cloud | ⚙️ Backend |
+|:-----|:---------|:-----------|
+| Multi-Agent Systems | Kubernetes | FastAPI |
+| AI Agent Evaluation | AWS | Django REST |
+| Autonomous Debugging | Docker | PostgreSQL |
+| RAG Pipelines | CI/CD | Redis |
+| LLM Routing | Cloud Infrastructure | Async Systems |
+
+</div>
+
+---
+
+# 📚 Favorite Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,kubernetes,aws,git,github,linux,vscode"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/niharika-mg">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mgniharikaa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/niharikamg">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://niharikamg.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Quote I Like
+
+<div align="center">
+
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
+> — *Harold Abelson*
 
 </div>
 
@@ -209,10 +635,10 @@ Interactive U.S. health & socioeconomic data explorer using D3.js choropleth map
 
 <div align="center">
 
-**Open to collaborating on backend engineering, AI/LLM research, and cloud-native projects**
+### ⭐ Thanks for stopping by!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-mg)
-&nbsp;
-[![Send Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgniharikaa@gmail.com)
+If you enjoy backend engineering, cloud-native systems, AI agents, or LLM research, I'd love to collaborate.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
 
 </div>
